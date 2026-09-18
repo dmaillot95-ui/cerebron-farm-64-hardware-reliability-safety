@@ -1,0 +1,12 @@
+{
+  "farm_id": 64,
+  "name": "cerebron-farm-64-hardware-reliability-safety",
+  "domain": "hardware-reliability-safety",
+  "status": "SCAFFOLDED",
+  "protocol": "SPIRALIX-OMEGA",
+  "capabilities": [
+    "hardware-reliability",
+    "fmea-fmeda-derating"
+  ],
+  "evidence_ceiling": "E2-before-real-tests"
+}
